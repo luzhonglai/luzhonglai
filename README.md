@@ -3,7 +3,7 @@
  * @version: 
  * @Author: Zhonglai
  * @Date: 2020-08-05 23:12:22
- * @LastEditTime: 2020-08-06 00:12:49
+ * @LastEditTime: 2020-08-06 00:57:11
 -->
 
 ### Hey 👋🏽, I'm [Zhonglai]() 
@@ -42,4 +42,4 @@ Hi, I'm Zhonglai, a Full Stack Developer 🚀 from China……
 - 😜 I'm focusing on fre and any other repos.
 - 💬 Ask me about anything, I am happy to help
 
-<!-- ![my github stats](https://github-readme-stats.vercel.app/api?username=yisar&show_icons=true&hide_border=true) -->
+![my github stats](https://github-readme-stats.vercel.app/api?username=zhonglai1996&show_icons=true&hide_border=true)
