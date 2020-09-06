@@ -3,7 +3,7 @@
  * @version: 
  * @Author: Zhonglai
  * @Date: 2020-08-05 23:12:22
- * @LastEditTime: 2020-09-06 14:19:29
+ * @LastEditTime: 2020-09-06 14:42:23
 -->
 
 ### Hey 👋🏽, I'm [Zhonglai]() 
@@ -27,16 +27,16 @@
 
 <br />
 
-嗨,我是卢中来,一名web前端开发者🚀……
+嗨,我是卢中来,一名web前端开发者🚀
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
+
 - 👨 我的目前在国家电网工作
 - 🌱 我最近正在学习Flutter
 - ➕ 关注小程序写开源小程序
 - 💪 努力成为一个优秀的键盘侠
-
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=zhonglai1996&show_icons=true&hide_border=true)
