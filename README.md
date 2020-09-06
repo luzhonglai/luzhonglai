@@ -3,7 +3,7 @@
  * @version: 
  * @Author: Zhonglai
  * @Date: 2020-08-05 23:12:22
- * @LastEditTime: 2020-08-06 00:57:11
+ * @LastEditTime: 2020-09-06 14:19:29
 -->
 
 ### Hey 👋🏽, I'm [Zhonglai]() 
@@ -22,24 +22,21 @@
 <a href="https://github.com/zhonglai1996">
   <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
-<a href="https://twitter.com/132yse">
-  <img align="left" alt="itrare | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-Hi, I'm Zhonglai, a Full Stack Developer 🚀 from China……
+嗨,我是卢中来,一名web前端开发者🚀……
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨 I’m currently working on [Dalingjia]
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 😜 I'm focusing on fre and any other repos.
-- 💬 Ask me about anything, I am happy to help
+- 👨 我的目前在国家电网工作
+- 🌱 我最近正在学习Flutter
+- ➕ 关注小程序写开源小程序
+- 💪 努力成为一个优秀的键盘侠
+
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=zhonglai1996&show_icons=true&hide_border=true)
