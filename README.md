@@ -39,4 +39,4 @@
 - ➕ 关注小程序写开源小程序
 - 💪 努力成为一个优秀的键盘侠
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=zhonglai1996&show_icons=true&hide_border=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
