@@ -13,7 +13,7 @@
 <a href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes">
   <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=32395032&website=www.oicqzone.com">
+<a href="#">
   <img align="left" alt="32395032" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://weibo.com/oreshura">
