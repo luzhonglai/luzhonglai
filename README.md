@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="#itrare">
+<a href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes">
   <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#32395032">
@@ -19,7 +19,7 @@
 <a href="https://weibo.com/oreshura">
   <img align="left" alt="慢慢的就没有了" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
 </a>
-<a href="https://github.com/zhonglai1996">
+<a href="https://github.com/luzhonglai">
   <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 
