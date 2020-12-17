@@ -38,6 +38,6 @@
 - 🌱 我最近正在学习Flutter
 - ➕ 关注小程序热爱开源
 - 💪 努力成为一个优秀的键盘侠
-- 👍 开源一套小程序sdk交互h5通用包
+- 👍 开源一小程序apiPromise通用
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
