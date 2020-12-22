@@ -34,7 +34,7 @@
 **Talking about Personal Stuffs:**
 
 
-- 👨 目前在国家电网工作外派
+- 👨 目前在国家电网外派
 - 🌱 我最近正在学习Promise、axios源码
 - ➕ 关注小程序热爱开源
 - 💪 努力成为一个优秀的键盘侠
