@@ -14,10 +14,10 @@
   <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="32395032" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+  <img align="left" alt="qq:32395032" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://weibo.com/oreshura">
-  <img align="left" alt="慢慢的就没有了" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
+  <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
 </a>
 <a href="https://github.com/luzhonglai">
   <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
@@ -39,7 +39,8 @@
 - ➕ 关注小程序热爱开源
 - 💪 努力成为一个优秀的键盘侠
 - 👍 开源----小程序Api-Promise插件、wechat-axios
-
+-
+-
 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
