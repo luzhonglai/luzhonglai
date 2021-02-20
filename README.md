@@ -34,13 +34,11 @@
 **Talking about Personal Stuffs:**
 
 
-- 👨 目前在国家电网外派
+- 👨 目前在国家电网外派、在看待新机会
 - 🌱 我最近正在学习Promise、axios源码
-- ➕ 关注小程序热爱开源
-- 💪 努力成为一个优秀的键盘侠
-- 👍 开源----小程序Api-Promise插件、wechat-axios
--
--
+- ➕ 关注小程序、Vue、Node、大前端领域技术
+- 👍 开源-小程序Api-Promise插件、wechat-axios、vue3.0-element-plus集成了接口日志窗口工具
+- 有意向联系我邮箱 32395032@qq.com
 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
