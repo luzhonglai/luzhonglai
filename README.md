@@ -34,7 +34,7 @@
 **Talking about Personal Stuffs:**
 
 
-- 👨 目前在国家电网外派、在看待新机会
+- 👨 目前在国家电网外派
 - 🌱 我最近正在学习Vue3.0、typescript
 - ➕ 擅长小程序、Vue、Node、大前端领域技术
 - 👍 开源一些小程序Api-Promise插件、wechat-axios、vue3.0-element-plus集成了接口日志窗口工具
