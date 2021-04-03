@@ -27,8 +27,7 @@
 <br />
 
 嗨,我是卢中来,一名web前端开发者🚀
-
-  <img width="300" height="300" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
