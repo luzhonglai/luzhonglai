@@ -32,11 +32,11 @@
 **Talking about Personal Stuffs:**
 
 
-- 👨 目前在国家电网外派
 - 🌱 我最近正在学习Vue3.0、typescript
 - ➕ 擅长小程序、Vue、Node、大前端领域技术
-- 👍 开源一些小程序Api-Promise插件、wechat-axios、vue3.0-element-plus集成了接口日志窗口工具
-- 有意向联系我邮箱 32395032@qq.com
+- 🔧 开源 小程序Api-Promise插件、wechat-axios
+- 💬 微信：itrare
+- 有意联系我邮箱 32395032@qq.com
 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
