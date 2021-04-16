@@ -6,8 +6,9 @@
  * @LastEditTime: 2020-09-06 14:42:23
 -->
 
+
 # 你好呀 👋 [it_rare]() 
-` 嗨，祝您有美好的一天哦，不如多逛逛`
+`嗨，祝您有美好的一天哦，不如多逛逛`
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
 
@@ -28,9 +29,8 @@
 - 🔧 小程序Api-Promise插件 / wechat-axios / ...
 
 
-
 ### 📮 联系我
-
+<br/>
   <a href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes">
     <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
   </a>
@@ -46,9 +46,11 @@
 <br/>
 
 
+
+
+
 - [Email - 32395032@qq.com](32395032@qq.com)
 - [💬 - itrare]()
-
 
 
 
