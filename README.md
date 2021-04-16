@@ -55,9 +55,9 @@
 
 ### 🤪 其他
 
-[📌 My Blog - SunSeekerX](https://yoouu.cn/)
+[📌 My Blog - itrare]()
 
-[📌 My Doc](https://sunseekerx.yoouu.cn/)
+[📌 My Doc]()
 
 
 
