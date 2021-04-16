@@ -33,10 +33,34 @@
 
 
 - 🌱 我最近正在学习Vue3.0、typescript
-- ➕ 擅长小程序、Vue、Node、大前端领域技术
-- 🔧 开源 小程序Api-Promise插件、wechat-axios
-- 💬 微信：itrare
-- 有意联系我邮箱 32395032@qq.com
 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
+
+### 📝 Worked language
+
+- ✅ JavaScript / TypeScript /HTML/CSS/ ...
+- ✅ Vue.js / React.js / ...
+- ✅ Uni-App/ Webapp / ...
+- ✅ Node.js /Linux/ Go/ ...
+- 🔧 小程序Api-Promise插件 / wechat-axios / ...
+
+
+
+### 📮 Contact Me
+
+- [Email - 32395032@qq.com](32395032@qq.com)
+-[💬 - itrare]()
+
+
+### 🤪 Other
+
+[📌 My Blog - SunSeekerX](https://yoouu.cn/)
+
+[📌 My Doc](https://sunseekerx.yoouu.cn/)
+
+
+
+![visitors](
+https://enwhcizq75i6qlo.m.pipedream.net/)
+
