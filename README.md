@@ -10,11 +10,11 @@
 ` 嗨，祝您有美好的一天哦，不如多逛逛`
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
-
-
 我是卢中来,一名web前端开发者🚀
 
-### 最近在做的事
+
+
+### 📝 在做的事
 - 🌱 Vue2源码解析 、学习typescript
 
 
@@ -42,6 +42,7 @@
 <a href="https://github.com/luzhonglai">
   <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
+<br/>
 
 - [Email - 32395032@qq.com](32395032@qq.com)
 - [💬 - itrare]()
@@ -57,6 +58,6 @@
 
 
 
-![嘟嘟嘟](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 
 
