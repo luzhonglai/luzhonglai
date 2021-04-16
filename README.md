@@ -30,6 +30,7 @@
 
 
 ### 📮 联系我
+
 <br/>
   <a href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes">
     <img align="left" alt="itrare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
@@ -46,11 +47,9 @@
 <br/>
 
 
-
-
-
 - [Email - 32395032@qq.com](32395032@qq.com)
-- [💬 - itrare]()
+- [💬  - itrare]()
+
 
 
 
