@@ -6,7 +6,8 @@
  * @LastEditTime: 2020-09-06 14:42:23
 -->
 
-### Hey 👋🏽, I'm [Zhonglai]() 
+# 你好呀 👋 [Zhonglai]() 
+`嗨，祝您有美好的一天。`
 
 <br/>
 
@@ -26,34 +27,34 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
-嗨,我是卢中来,一名web前端开发者🚀
-
-
-**Talking about Personal Stuffs:**
-
-
-- 🌱 我最近正在学习Vue3.0、typescript
-
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
 
-### 📝 Worked language
+
+我是卢中来,一名web前端开发者🚀
+
+
+- 🌱 最近在做的Vue2源码解析 、typescript
+
+
+### 📝 工作语言
 
 - ✅ JavaScript / TypeScript /HTML/CSS/ ...
 - ✅ Vue.js / React.js / ...
-- ✅ Uni-App/ Webapp / ...
+- ✅ Uni-App/ Webapp / webpack...
 - ✅ Node.js /Linux/ Go/ ...
 - 🔧 小程序Api-Promise插件 / wechat-axios / ...
 
 
 
-### 📮 Contact Me
+### 📮 联系我
 
 - [Email - 32395032@qq.com](32395032@qq.com)
 -[💬 - itrare]()
 
 
-### 🤪 Other
+
+### 🤪 其他
 
 [📌 My Blog - SunSeekerX](https://yoouu.cn/)
 
