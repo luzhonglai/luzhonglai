@@ -10,7 +10,7 @@
 # 你好呀 👋 [it_rare]() 
 `祝您有美好的一天哦，不如多多看看。`
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)]
+[![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)]()
 
 <br/>
 我是卢中来,一名web前端开发者🚀
