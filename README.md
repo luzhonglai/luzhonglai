@@ -8,7 +8,7 @@
 
 
 # 你好呀 👋 [it_rare]() 
-`嗨，祝您有美好的一天哦，不如多逛逛`
+`祝您有美好的一天哦，不如多多看看。`
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)
 
