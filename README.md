@@ -17,8 +17,9 @@
     我是卢中来,一名web前端开发者🚀
     
 <br/>
+
 ### 📝 在做的事
-- 🌱 Vue2源码解析 、学习typescript、Go
+    🌱 Vue2源码解析 、学习typescript、Go
 
 
 ### 📝 工作语言
