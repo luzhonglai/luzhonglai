@@ -22,7 +22,6 @@
 ### 📝 在做的事
     🌱 Vue2源码解析 、学习typescript、Go
 
-
 ### 📝 工作语言
 
 - ✅ JavaScript / TypeScript /HTML/CSS/ ...
