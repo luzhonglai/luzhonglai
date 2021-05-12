@@ -20,7 +20,7 @@
 
 
 ### 📝 在做的事
-    🌱 Vue2源码解析 、学习typescript、Go
+    🌱 Vue2源码解析 、学习typescript
 
 ### 📝 工作语言
 
