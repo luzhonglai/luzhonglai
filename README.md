@@ -7,7 +7,7 @@
 -->
 
 
-### Hi 👋 [it_rare]() 
+### Hi 👋 [rare]() 
 `-------软件定制开发-----`
 
 <!-- [![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)]() -->
