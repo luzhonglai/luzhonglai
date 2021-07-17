@@ -7,7 +7,7 @@
 -->
 
 
-# 你好呀 👋 [it_rare]() 
+# Hi 👋 [it_rare]() 
 `-------软件定制开发-----`
 
 <!-- [![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)]() -->
@@ -20,7 +20,7 @@
 
 
 ### 📝 在做的事
-    🌱 Vue2源码解析 、学习typescript、rare-cli工具
+    🌱 Vue2源码解析 、学习typescript、重学javascript
 
 ### 📝 工作语言
 
