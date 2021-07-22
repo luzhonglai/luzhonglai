@@ -8,7 +8,7 @@
 
 
 ### Hi 👋 [rare]() 
-`-------寻求亮点-----`
+<!-- `-------寻求亮点-----` -->
 
 <!-- [![my github stats](https://github-readme-stats.vercel.app/api?username=luzhonglai&show_icons=true&hide_border=true)]() -->
 
