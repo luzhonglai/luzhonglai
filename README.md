@@ -21,7 +21,7 @@
 
 **📝 在做的事:** 
 
- Vue2源码解析 、学习typescript、重学javascript
+ Vue2源码解析 、重学javascript
 
 
 
