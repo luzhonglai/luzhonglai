@@ -33,7 +33,8 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 **🚌 项目说明:**
-[正在补充当中]()
+
++ [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)vue3 前沿技术实践
 
 **📮 联系我:** 
 
