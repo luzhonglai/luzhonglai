@@ -36,8 +36,8 @@
 
 + [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)vue3 基于vite 搭建项目模版 
 + [vue-pc-template]
-+ [blog]
-+ [wechat-utils]
++ [initview]()前端大杂烩 面试题 javascript
++ [wechat-app-utils]
 + 
 
 **📮 联系我:** 
