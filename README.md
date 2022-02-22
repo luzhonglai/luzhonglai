@@ -34,7 +34,11 @@
 
 **🚌 项目说明:**
 
-+ [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)vue3 前沿技术实践
++ [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)vue3 基于vite 搭建项目模版 
++ [vue-pc-template]
++ [blog]
++ [wechat-utils]
++ 
 
 **📮 联系我:** 
 
