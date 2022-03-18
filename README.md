@@ -34,10 +34,14 @@
 
 **🚌 项目说明:**
 
-+ [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)基于vite 搭建项目模版 
-+ [vue-pc-template]()
-+ [initview]() 前端大杂烩. 
++ [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)基于vite vue3后台项目模版 
++ [wechat-api-promise](https://github.com/luzhonglai/wechat-api-promise) 小程序Api处理器、一件转换promise形式使用
++ [initview]() blog 文档记录
 
+** packages:**
++ [wechat-api-promise](https://www.npmjs.com/package/wechat-api-promise) 小程序Api处理器、一件转换promise形式
++ [evs-ui-pro](https://www.npmjs.com/package/evs-components-pro) 基于vue3.0、element-plus、cms业务组件库
++ [axios]()支持日志插件接口信息窗口调整
 
 **📮 联系我:** 
 
