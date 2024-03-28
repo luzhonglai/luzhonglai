@@ -42,7 +42,7 @@
 **🔧 Packages:**
 
 + [wechat-api-promise](https://www.npmjs.com/package/wechat-api-promise) 小程序Api处理器、一件转换promise形式
-+ [evs-ui-pro](https://www.npmjs.com/package/evs-components-pro) 基于element-plus而开的cms业务组件库
++ [evs-ui-pro](https://www.npmjs.com/package/evs-components-pro) 基于element-plus二开的cms业务组件库
 + [axios]()支持日志插件接口信息窗口调整
 
 **📮 联系我:** 
