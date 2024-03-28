@@ -36,12 +36,13 @@
 
 + [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)基于vite vue3后台项目模版 
 + [wechat-api-promise](https://github.com/luzhonglai/wechat-api-promise) 小程序Api处理器、一件转换promise形式使用
++ [wechat-app-utils](https://github.com/luzhonglai/wechat-app-utils) 小程序插件、腾讯云课堂
 + [initview]() blog 文档记录
 
 **🔧 Packages:**
 
 + [wechat-api-promise](https://www.npmjs.com/package/wechat-api-promise) 小程序Api处理器、一件转换promise形式
-+ [evs-ui-pro](https://www.npmjs.com/package/evs-components-pro) 基于vue3.0、element-plus、cms业务组件库
++ [evs-ui-pro](https://www.npmjs.com/package/evs-components-pro) 基于element-plus而开的cms业务组件库
 + [axios]()支持日志插件接口信息窗口调整
 
 **📮 联系我:** 
