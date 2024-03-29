@@ -36,7 +36,7 @@
 
 + [admin-vite-vue3](https://github.com/luzhonglai/admin-vite-vue3)基于vite vue3后台项目模版 
 + [wechat-api-promise](https://github.com/luzhonglai/wechat-api-promise) 小程序Api处理器、一件转换promise形式使用
-+ [wechat-app-utils](https://github.com/luzhonglai/wechat-app-utils) 小程序插件、腾讯云课堂
++ [wechat-app-utils](https://github.com/luzhonglai/wechat-app-utils) 小程序插件、自定义直播、图片脚本cdn上传
 + [initview]() blog 文档记录
 
 **🔧 Packages:**
